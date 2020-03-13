@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +7,11 @@
     <title>Meep Meep</title>
 </head>
 <body>
-    <p>shapes for empathy</p>
+    <p>blue animals in hats</p>
+<!--Image-->
+    <img src="https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Fcooperunion-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!WsOL83cGuUWcrsY_Xqn-57bwxgUUcL9BlWgv2HWJ3N7o4E5zRPj-S4Ttiy7Qtpho%2Fitems%2F015N7G2TQ5ZSBY5E6TPJDJ3LQ4XTPOSROF%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvY29vcGVydW5pb24tbXkuc2hhcmVwb2ludC5jb21ANWQ3YTIwODItNjgwNy00MTE0LWIzZTYtN2UyNDFkMTQ2OWEyIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTU4NDEyMTEyOSIsImV4cCI6IjE1ODQxNDI3MjkiLCJlbmRwb2ludHVybCI6ImtXS2Ezakluc2lGcy9vNE5QRzZySUZiRUFnT0FQYTR2a1ptUUloNEhZc1E9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxMjEiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImNpZCI6Ik5tWTNNak5sT1dZdFpUQm1ZUzB3TURBd0xUVTRNell0WlRobVpUTmtNV1V4WWpFMiIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJaak00WW1Nek5XRXRNRFkzTnkwME5XSTVMVGxqWVdVdFl6WXpaalZsWVRsbVpXVTMiLCJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8YW5hbnlhLm1hbGFnaUBjb29wZXIuZWR1IiwibmlpIjoibWljcm9zb2Z0LnNoYXJlcG9pbnQiLCJpc3VzZXIiOiJ0cnVlIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA0ZDQ2ZjkzZUBsaXZlLmNvbSIsInR0IjoiMCIsInVzZVBlcnNpc3RlbnRDb29raWUiOiIyIn0.SFN6ekNOS3haNElDUzA1dHI2YzFOU2MraStPL1dFSnNJSTdmWTBlSnlTZz0&encodeFailures=1&srcWidth=&srcHeight=&width=268&height=220&action=Access">
 
 </body>
 </html>
+
+
